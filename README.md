@@ -27,3 +27,11 @@ This is a simple Python project to **automate the collection of news headlines**
 
 ```bash
 pip install requests beautifulsoup4
+```
+2. **Run the script**
+```
+python news_scraper.py
+```
+3. Check the output
+
+-Headlines will be saved in a file called news_headlines.txt.
