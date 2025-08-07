@@ -34,4 +34,4 @@ python news_scraper.py
 ```
 3. Check the output
 
--Headlines will be saved in a file called news_headlines.txt.
+- Headlines will be saved in a file called news_headlines.txt.
